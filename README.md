@@ -1,72 +1,69 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:6366f1&height=180&section=header&text=ark-x%20%7C%20nu1nux&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Agents%20%7C%20Web3%20Wallet%20%7C%20Developer%20Tools&descSize=16&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=ark-x%20/%20nu1nux&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Agents%20.%20Web3%20Wallets%20.%20Developer%20Tools&descSize=16&descAlignY=68" />
 </p>
 
 <h3 align="center">believe it, do it, enjoy it.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents-0ea5e9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Build-Web3%20%26%20Tools-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mode-Ship%20Small%2C%20Ship%20Useful-f97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents-111111?style=flat-square&labelColor=000000&color=2f3437" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-111111?style=flat-square&logo=typescript&logoColor=white&labelColor=000000&color=2f3437" />
+  <img src="https://img.shields.io/badge/Build-Web3%20%26%20Tools-111111?style=flat-square&labelColor=000000&color=2f3437" />
+  <img src="https://img.shields.io/badge/Mode-Ship%20Small%2C%20Ship%20Useful-111111?style=flat-square&labelColor=000000&color=2f3437" />
 </p>
 
-## Hi, I'm nu1nux
+## About
 
-I build practical tools around AI agents, web applications, wallets, and developer workflows.
+I build practical tools around AI agents, web applications, wallets, and developer workflows. I like small systems that are useful, clear, and easy to ship.
 
-- Working mostly with TypeScript, JavaScript, Python, and Shell
-- Interested in AI agents, automation, Web3 wallets, and clean developer experience
-- Always turning useful ideas into small, working systems
+| Field | Notes |
+| --- | --- |
+| Current focus | AI agents, automation, Web3 wallets |
+| Main stack | TypeScript, JavaScript, Python, Shell |
+| Product taste | Minimal interfaces, clean workflows, useful tools |
+| Motto | believe it, do it, enjoy it |
 
-## What I Work With
-
-<p>
-  <img src="https://img.shields.io/badge/Language-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Language-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-Shell-4eaa25?style=flat-square&logo=gnubash&logoColor=white" />
-</p>
+## Stack Tags
 
 <p>
-  <img src="https://img.shields.io/badge/Frontend-React-61dafb?style=flat-square&logo=react&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Frontend-Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Style-Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/Core-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/Core-Python-000000?style=flat-square&logo=python&logoColor=white&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/Core-Shell-000000?style=flat-square&logo=gnubash&logoColor=white&labelColor=111111&color=2f3437" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI-Agents-8b5cf6?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-LLM%20Apps-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-Workflows-0ea5e9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web3-Wallets-14b8a6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web-React-000000?style=flat-square&logo=react&logoColor=white&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/Web-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/Runtime-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/Style-Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=111111&color=2f3437" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Tools-Git-f05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-Codex-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Agents-000000?style=flat-square&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/AI-LLM%20Apps-000000?style=flat-square&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/Automation-Workflows-000000?style=flat-square&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/Web3-Wallets-000000?style=flat-square&labelColor=111111&color=2f3437" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Tools-Git-000000?style=flat-square&logo=git&logoColor=white&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-000000?style=flat-square&logo=github&logoColor=white&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/Tools-Docker-000000?style=flat-square&logo=docker&logoColor=white&labelColor=111111&color=2f3437" />
+  <img src="https://img.shields.io/badge/Editor-Codex-000000?style=flat-square&labelColor=111111&color=2f3437" />
 </p>
 
 ## Featured Work
 
-| Project | What it is |
-| --- | --- |
-| [agent-skills](https://github.com/nu1nux/agent-skills) | Skills for better programming workflows |
-| [open-wallet](https://github.com/nu1nux/open-wallet) | Open Wallet, built for everyone and secured for users |
-| [dify](https://github.com/nu1nux/dify) | LLM app platform exploration and customization |
-| [util](https://github.com/nu1nux/util) | Common utilities for React components |
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,bash,git,github,docker" />
-</p>
+| Status | Project | Type | Stack |
+| --- | --- | --- | --- |
+| Active | [agent-skills](https://github.com/nu1nux/agent-skills) | Programming workflow skills | JavaScript, HTML, Shell, TypeScript |
+| Active | [open-wallet](https://github.com/nu1nux/open-wallet) | Wallet product | TypeScript, Shell, JavaScript |
+| Exploring | [dify](https://github.com/nu1nux/dify) | LLM app platform | TypeScript, Python, MDX |
+| Utility | [util](https://github.com/nu1nux/util) | React component utilities | TypeScript, JavaScript |
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nu1nux&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu1nux&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nu1nux&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu1nux&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
 </p>
