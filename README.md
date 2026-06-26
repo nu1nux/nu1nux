@@ -7,7 +7,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20Agents-0ea5e9?style=flat-square" />
   <img src="https://img.shields.io/badge/Code-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Build-Developer%20Tools-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Build-Web3%20%26%20Tools-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mode-Ship%20Small%2C%20Ship%20Useful-f97316?style=flat-square" />
 </p>
 
 ## Hi, I'm nu1nux
@@ -17,6 +18,36 @@ I build practical tools around AI agents, web applications, wallets, and develop
 - Working mostly with TypeScript, JavaScript, Python, and Shell
 - Interested in AI agents, automation, Web3 wallets, and clean developer experience
 - Always turning useful ideas into small, working systems
+
+## What I Work With
+
+<p>
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Language-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Shell-4eaa25?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-React-61dafb?style=flat-square&logo=react&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Agents-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-LLM%20Apps-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-Workflows-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web3-Wallets-14b8a6?style=flat-square" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Tools-Git-f05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-Codex-111111?style=flat-square" />
+</p>
 
 ## Featured Work
 
@@ -29,7 +60,7 @@ I build practical tools around AI agents, web applications, wallets, and develop
 
 ## Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,bash,git,github,docker" />
 </p>
 
