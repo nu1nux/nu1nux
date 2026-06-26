@@ -60,10 +60,3 @@ I build practical tools around AI agents, web applications, wallets, and develop
 | Active | [open-wallet](https://github.com/nu1nux/open-wallet) | Wallet product | TypeScript, Shell, JavaScript |
 | Exploring | [dify](https://github.com/nu1nux/dify) | LLM app platform | TypeScript, Python, MDX |
 | Utility | [util](https://github.com/nu1nux/util) | React component utilities | TypeScript, JavaScript |
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nu1nux&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu1nux&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
-</p>
